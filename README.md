@@ -9,22 +9,29 @@ To make an accordian from scratch in **React**
   - 2. The signs should change dynamically.
   - 3. Click on a '+' icon should only be applied on the active item and the respective box should only be open and rest all shoukd be closed.
  
-## Objectives acheived - 1 & 2
+### Task progress till now -
+Objectives acheived - 1 & 2
 
 # Project UI looks like - 
 
 ### Desktop view -
 
-![output 1]() 
+![output 1](https://github.com/Apurva-official/Accordian-react/blob/main/Screenshots/Screenshot%20(313).png) 
+![output 2](https://github.com/Apurva-official/Accordian-react/blob/main/Screenshots/Screenshot%20(314).png) 
 
 ### Mobile view -
 
-![output 1]() 
+![output 3](https://github.com/Apurva-official/Accordian-react/blob/main/Screenshots/Screenshot%20(315).png) 
+![output 4](https://github.com/Apurva-official/Accordian-react/blob/main/Screenshots/Screenshot%20(316).png)  
 
+### Responsive view -
+![output 5](https://github.com/Apurva-official/Accordian-react/blob/main/Screenshots/Screenshot%20(317).png) 
 
-### Should use html, css and js for core functionality in react
+### Should use 
+Html, css and js for core functionality in react
 
-### **Should not** use any 3rd party css frameworks such as _Bootstrap, Tailwind,etc..._
+### **Should not** use 
+any 3rd party css frameworks such as _Bootstrap, Tailwind,etc..._
 
 # Steps to run the code -
 
