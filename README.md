@@ -8,7 +8,15 @@ To make an accordian from scratch in **React**
   - 1. Should offer a dropdown
   - 2. The signs should change dynamically.
   - 3. Click on a '+' icon should only be applied on the active item and the respective box should only be open and rest all shoukd be closed.
- 
+
+## Additional features -
+  - 1. Fully Responsive
+  - 2. Flexible UI
+  - 3. **Dynamic Data (Question & answers)** coming from **'src/data.js'** file.
+  - 4. **Note** - Any changes in **data.js** will be immediately be seen on the module without even needing any additional coding.
+  - 5. Use of **DRY** - Do not repeat yourself principle.
+  - 6. Easily maintainable and faster rendering.
+
 ### Task progress till now -
 Objectives acheived - 1 & 2
 
